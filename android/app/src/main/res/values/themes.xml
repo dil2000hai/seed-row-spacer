@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SeedRowSpacer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#1B2B22</item>
+    </style>
+</resources>
