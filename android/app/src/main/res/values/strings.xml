@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seed Row Spacer</string>
+    <string name="app_title">SEED ROW SPACER</string>
+    <string name="tagline">PLAN EVERY ROW</string>
+    <string name="loading">PREPARING BEDS</string>
+
+    <string name="cta_start">START PLANNING</string>
+    <string name="cta_next_crop">NEXT: CROP</string>
+    <string name="cta_show_grid">SHOW GRID</string>
+    <string name="cta_seed_count">SEED COUNT</string>
+    <string name="cta_row_guide">ROW GUIDE</string>
+    <string name="cta_back_to_grid">BACK TO GRID</string>
+    <string name="cta_again">PLAN AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_apply_strips">APPLY STRIPS</string>
+    <string name="cta_save_rotation">SAVE TO ROTATION NOTES</string>
+
+    <string name="title_bed_size">BED SIZE</string>
+    <string name="title_crop">CROP AND SPACING</string>
+    <string name="title_grid">GRID COMPARE</string>
+    <string name="title_row_guide">ROW GUIDE</string>
+    <string name="title_result">PLAN RESULT</string>
+    <string name="title_strip">STRIP PLANNER</string>
+    <string name="title_rotation">ROTATION NOTES</string>
+    <string name="title_settings">SETTINGS</string>
+
+    <string name="tile_strip">STRIP PLANNER</string>
+    <string name="tile_rotation">ROTATION</string>
+    <string name="tile_row_guide">ROW GUIDE</string>
+
+    <string name="label_plants">PLANTS</string>
+    <string name="label_beds">BEDS</string>
+    <string name="label_square">SQUARE</string>
+    <string name="label_offset">OFFSET</string>
+    <string name="label_gain">GAIN</string>
+    <string name="label_length">LENGTH</string>
+    <string name="label_width">WIDTH</string>
+    <string name="label_path">PATH</string>
+    <string name="label_in_row">IN ROW</string>
+    <string name="label_between_rows">BETWEEN ROWS</string>
+    <string name="label_sowing">SOWING DATE</string>
+    <string name="label_seeds_needed">SEEDS NEEDED</string>
+    <string name="label_germination">GERMINATION</string>
+    <string name="label_with_allowance">WITH ALLOWANCE</string>
+    <string name="label_sown">SOWN</string>
+    <string name="label_harvest">HARVEST</string>
+    <string name="label_grid">GRID</string>
+    <string name="label_bed">BED</string>
+    <string name="label_units">UNITS</string>
+    <string name="label_default_crop">DEFAULT CROP</string>
+    <string name="label_last_frost">LAST FROST</string>
+    <string name="label_free">FREE</string>
+    <string name="label_crop">CROP</string>
+    <string name="label_spacing">SPACING</string>
+    <string name="label_bed_preview">BED PREVIEW</string>
+    <string name="label_plants_fit">PLANTS FIT</string>
+    <string name="label_nothing_fits">NOTHING FITS</string>
+    <string name="label_tools">GARDEN TOOLS</string>
+    <string name="label_recent_beds">RECENT BEDS</string>
+    <string name="label_strips">STRIPS</string>
+
+    <string name="toggle_square">SQUARE</string>
+    <string name="toggle_offset">OFFSET</string>
+    <string name="toggle_cm">CM</string>
+    <string name="toggle_inch">INCH</string>
+    <string name="step_minus_day">-1 DAY</string>
+    <string name="step_plus_day">+1 DAY</string>
+    <string name="step_minus">-</string>
+    <string name="step_plus">+</string>
+
+    <string name="unit_cm">CM</string>
+    <string name="unit_in">IN</string>
+
+    <string name="hint_menu">PICK A BED . SET SPACING . COUNT SEEDS</string>
+    <string name="hint_bed_too_small">BED TOO SMALL FOR THIS SPACING</string>
+    <string name="hint_min_size">LENGTH AND WIDTH MUST FIT ONE PLANT</string>
+    <string name="hint_pick_crop">PICK A CROP OR TUNE THE SPACING BY HAND</string>
+    <string name="hint_strip">SHARE ONE BED BETWEEN THREE CROPS</string>
+    <string name="empty_rotation">NO SEASONS SAVED YET</string>
+    <string name="warning_rotation">ROTATION WARNING</string>
+    <string name="state_playing">PLAYING</string>
+    <string name="state_paused">PAUSED</string>
+
+    <string name="cd_home">BACK TO MENU</string>
+    <string name="cd_settings">OPEN SETTINGS</string>
+    <string name="cd_pause">PAUSE THE SPROUT REVEAL</string>
+    <string name="cd_resume">RESUME THE SPROUT REVEAL</string>
+
+    <string name="fmt_value_unit">%1$s %2$s</string>
+    <string name="fmt_size">%1$s x %2$s %3$s</string>
+    <string name="fmt_area">%1$s M2</string>
+    <string name="fmt_percent">%1$d%%</string>
+    <string name="fmt_gain">+%1$d%%</string>
+    <string name="fmt_step">%1$d / %2$d</string>
+    <string name="fmt_season">SEASON %1$d . %2$d BEDS . %3$d CROPS</string>
+    <string name="fmt_count">%1$d</string>
+    <string name="fmt_row">ROW %1$d</string>
+    <string name="fmt_shift">+%1$s</string>
+    <string name="fmt_rows_repeat">ROWS %1$d-%2$d REPEAT THE PATTERN ABOVE</string>
+    <string name="fmt_range">%1$s - %2$s</string>
+    <string name="fmt_spacing">%1$s x %2$s %3$s</string>
+    <string name="fmt_free">FREE %1$s %2$s</string>
+    <string name="fmt_strip_plants">%1$d PLANTS</string>
+</resources>
